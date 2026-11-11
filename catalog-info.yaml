@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: paiement-api-3
+  description: API de paiement
+spec:
+  type: service
+  lifecycle: experimental
+  owner: guests
